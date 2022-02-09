@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - program that prints all the numbers of base 16 in lowercase
+ * main - program that prints all the numbers
+ * of base 16 in lowercase
  * followed by a new line
  * Return: 0
  */
@@ -20,5 +21,5 @@ int main(void)
 		putchar(chr);
 	}
 	putchar('\n');
-	return (0);
-}	
+return (0);
+}
